@@ -3,7 +3,6 @@
 AXIOM searches for Particle-Lenia interaction laws. A law is a flat vector of floats. The engine turns one into a running simulation, the tuner reduces that simulation to a bounded descriptor and judges it, the search breeds the genomes whose behavior scored well, and the harness puts all of it behind one line-oriented protocol a frontend can drive.
 
 - [docs/TECHNICAL_SPEC.md](docs/TECHNICAL_SPEC.md) is the implementation contract.
-- [docs/MASTERDOC.html](docs/MASTERDOC.html) reads the same system at three depths.
 - [docs/STYLE.md](docs/STYLE.md) governs anything written under `src/`.
 
 ## Shape of the crate
