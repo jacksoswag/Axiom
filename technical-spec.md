@@ -59,4 +59,4 @@ Full per-file responsibilities are in the module headers, which are kept current
 
 ## Reading further
 
-[README.md](../README.md) covers the same ground for someone running the crate rather than modifying it, including the command surface and what the code deliberately does not contain. [docs/STYLE.md](STYLE.md) is the code-style guide.
+[README.md](README.md) covers the same ground for someone running the crate rather than modifying it, including the command surface and what the code deliberately does not contain.
